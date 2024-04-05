@@ -1,24 +1,20 @@
-<!-- This is the markdown template for the final project of the Building AI course, 
-created by Reaktor Innovations and University of Helsinki. 
-Copy the template, paste it to your GitHub README and edit! -->
-
-# Project Title
+# Projet pour le cours de IA
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+Je n'ai aucune idée de quoi créer et aucune idée de ce que je pourrais faire comme projet. Ceci est donc mon résumé, c'est tout. Merci! 
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Il y a beaucoup de problème à résoudre sur cette planète. Je n'ai pas d'idée de quoi écrire en ce moment pour cela. 
 
 This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+* Problème 1
+* Problème 2
+* Problème 18 000
 
 
 ## How is it used?
@@ -63,11 +59,11 @@ If you need to use links, here's an example:
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+Les limites ont été ma motivation à faire ceci. 
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+J'aimerais bien pouvoir terminer ce cours de IA et finalement être assermentée.
 
 
 ## Acknowledgments
